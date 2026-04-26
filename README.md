@@ -10,3 +10,8 @@ git branch -M main        # create a branch
 
 
 git remote add origin https://github.com/vinaymce117/simple_actions.git
+
+
+git add .
+git commit -m "Unit test cases updated"
+git push origin main
